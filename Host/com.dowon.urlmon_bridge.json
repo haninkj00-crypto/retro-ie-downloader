@@ -1,0 +1,9 @@
+{
+  "name": "com.dowon.urlmon_bridge",
+  "description": "Legacy URLMon Download Bridge Host",
+  "path": "D:\\Software\\Downloader\\dist\\Host\\run_host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://bnkebdgfneioimolcpabdjfadeghipgo/"
+  ]
+}

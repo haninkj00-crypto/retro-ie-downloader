@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Legacy Download Bridge",
+  "version": "1.1",
+  "permissions": ["nativeMessaging", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
