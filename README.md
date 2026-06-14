@@ -170,6 +170,8 @@ Depends on legacy Windows behavior not guaranteed by Microsoft.
 
 ---
 
+Please visit my guestbook at http://221.149.253.89/guestbook.php with your retro browser!!
+
 ## License
 
 No license. Research use only.
